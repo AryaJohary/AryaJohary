@@ -15,10 +15,18 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/aryajohary/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/aryajohary/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/+916284917679" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:aryajohary@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -27,7 +35,7 @@
 
 ###
 
-<p align="left">- 🛠 I’m currently working with Java, JSP, MySQL, React.js, Node.js, Unity, etc.<br>- 📄 Recipient of a university scholarship for academic excellence.<br>- 🥇 Gold medalist in NPTEL's Joy of Computing using Python.<br>- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/aryajohary).<br>- 📧 How to reach me: aryajohary@gmail.com.<br>- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/aryajohary).</p>
+<p align="left">- 🛠 I’m currently working with Java, JSP, MySQL, React.js, Node.js, Unity, etc.<br>- 📄 Recipient of a university scholarship for academic excellence.<br>- 🥇 Gold medalist in NPTEL's Joy of Computing using Python.<br>- 👨🏻‍💻 Most of my projects are available on GitHub (https://github.com/aryajohary).<br>- 📧 How to reach me: aryajohary@gmail.com.<br>- 🌐 Connect with me on LinkedIn (https://www.linkedin.com/in/aryajohary).</p>
 
 ###
 
