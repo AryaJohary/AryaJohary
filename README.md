@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I'm Arya Kumar Johary, a Java developer passionate about turning ideas into reality with clean, scalable code. I'm pursuing a B.Tech in Computer Science Engineering at UEM, Jaipur, and have honed my skills in Java, JSP, MySQL, React.js, Node.js, and Unity.<br><br>I enjoy working on projects from start to finish, focusing on user experience and high-performance development. I'm always eager to innovate and connect with the tech community on GitHub and LinkedIn.</p>
+<p align="left">Hi, I'm Arya Kumar Johary, a Java developer passionate about turning ideas into reality with clean, scalable code. I'm pursuing a B.Tech in Computer Science Engineering at UEM, Jaipur, and have honed my skills in Java, Spring Boot, Hibernate, MySQL and MongoDB.<br><br>I enjoy working on projects from start to finish, focusing on user experience and high-performance development. I'm always eager to innovate and connect with the tech community on GitHub and LinkedIn.</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🛠 I’m currently working with Java, JSP, MySQL, React.js, Node.js, Unity, etc.<br>- 📄 Recipient of a university scholarship for academic excellence.<br>- 🥇 Gold medalist in NPTEL's Joy of Computing using Python.<br>- 👨🏻‍💻 Most of my projects are available on GitHub (https://github.com/aryajohary).<br>- 📧 How to reach me: aryajohary@gmail.com.<br>- 🌐 Connect with me on LinkedIn (https://www.linkedin.com/in/aryajohary).</p>
+<p align="left">- 🛠 I’m currently working with Java Spring Boot Framework, Hibernate JPA, MySQL, MongoDB etc.<br>- 📄 Recipient of a university scholarship for academic excellence.<br>- 🥇 Gold medalist in NPTEL's Joy of Computing using Python.<br>- 👨🏻‍💻 Most of my projects are available on GitHub (https://github.com/aryajohary).<br>- 📧 How to reach me: aryajohary@gmail.com.<br>- 🌐 Connect with me on LinkedIn (https://www.linkedin.com/in/aryajohary).</p>
 
 ###
 
