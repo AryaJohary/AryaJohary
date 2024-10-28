@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I'm Arya Kumar Johary, a Java developer passionate about turning ideas into reality with clean, scalable code. I'm pursuing a B.Tech in Computer Science Engineering at UEM, Jaipur, and have honed my skills in Java, Spring Boot, Hibernate, MySQL and MongoDB.<br><br>I enjoy working on projects from start to finish, focusing on user experience and high-performance development. I'm always eager to innovate and connect with the tech community on GitHub and LinkedIn.</p>
+<p align="left">Hi, I'm Arya Kumar Johary, a Java developer passionate about turning ideas into reality with clean, scalable code. I'm pursuing a B.Tech in Computer Science Engineering at UEM, Jaipur, and have honed my skills in Java, Spring Boot, Hibernate, MySQL, and MongoDB.<br><br>I enjoy working on projects from start to finish, focusing on user experience and high-performance development. I'm always eager to innovate and connect with the tech community on GitHub and LinkedIn. Check out my portfolio at <a href="https://aryajohary.github.io/MyPortfolio" target="_blank">https://aryajohary.github.io/MyPortfolio</a>.</p>
 
 ###
 
@@ -60,5 +60,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
